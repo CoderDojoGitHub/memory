@@ -8,7 +8,7 @@ to find all the pairs of two cards with the same color.
 
 We got as far as drawing cards and seeing the hidden color last time.
 If you don't have that available, or weren't here last time, you can
-download a copy [here](https://github.com/kevinclark/Lesson-Plans/blob/master/shoes/memory-2.rb).
+download a copy [here](https://github.com/CoderDojoSF/memory/blob/master/lesson1/memory.rb).
 
 # Try out what's there
 

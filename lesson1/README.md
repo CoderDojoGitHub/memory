@@ -1,4 +1,3 @@
-
 Today we're going to start building a memory game. We're going to do this using Shoes, which uses the Ruby programming language.
 
 The game will have a set of 'cards' on a board. When you click the

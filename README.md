@@ -2,6 +2,15 @@
 
 Build a Memory game in Ruby with Shoes™
 
+## Sub-Lessons
+This lesson consists of two sub-lessons
+
+  * [Lesson 1](https://github.com/CoderDojoSF/memory/tree/master/lesson1)
+  * [Lesson 2](https://github.com/CoderDojoSF/memory/tree/master/lesson2)
+
+The second lesson builds off of the first one and shoud be done after
+completing the first.
+
 ### Prereqs - Installing Shoes and a text editor
 
 
