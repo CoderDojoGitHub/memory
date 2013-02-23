@@ -1,3 +1,5 @@
+Copyright Kevin Clark, 2012
+
 Creative Commons Legal Code
 
 Attribution-ShareAlike 3.0 Unported
